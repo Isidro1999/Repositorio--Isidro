@@ -36,6 +36,7 @@ let bicicletaConRodadoGrande = bicicletaA.rodado > bicicletaB.rodado ?  biciclet
 
 console.log("La bicicleta con  mayor rodado es la "+ bicicletaConRodadoGrande.marca );
 console.log(1)
+console.log(1)
 
 
     
